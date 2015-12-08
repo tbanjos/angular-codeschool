@@ -1,2 +1,2 @@
-# didactic
+# didactical
 Learning things
