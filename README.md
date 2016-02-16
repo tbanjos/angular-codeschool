@@ -1,2 +1,2 @@
 # learning
-Learning things and storing sample code
+Repository for training and learning new stuff, store sample code.
