@@ -1,2 +1,2 @@
-# didactical
-Learning things
+# learning
+Learning things and storing sample code
